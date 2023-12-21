@@ -9,7 +9,7 @@
   <a href="https://linkedin.com/in/jaipal-singh-khaira-b39718153" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaipal-singh-khaira" height="30" width="40" />
   </a>
-  <a href="https://fb.com/jaipalsinghlkhaira" target="blank">
+  <a href="https://www.facebook.com/jaipalsingh95" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jaipalsinghlkhaira" height="30" width="40" />
   </a>
 </p>
@@ -26,7 +26,7 @@
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/> Bootstrap
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> CSS3
-  <img src="https://img.shields.io/badge/tailwind-CSS-38B2AC?style=flat&logo=tailwind-css" alt="Tailwind CSS" height="30"/>
+  <img src=https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
 </p>
   
 <h6 align="left">BackEnd:</h6>
